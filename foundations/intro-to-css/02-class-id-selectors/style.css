@@ -1,1 +1,21 @@
-/* Add CSS Styling */
+* {
+  font-size: 20px;
+}
+
+.class {
+  background-color: rgb(224, 127, 127);
+}
+
+#special01 {
+  color: blue;
+  font-size: 50px;
+}
+
+.class.cool {
+  font-size: 35px;
+}
+
+#special02 {
+  background-color: rgb(55, 202, 55);
+  font-size: 30px;
+}
